@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Assign4_SpaceBlasters.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="HighScore" Type="System.String" Scope="User">
+      <Value Profile="(Default)">480</Value>
+    </Setting>
+    <Setting Name="HighScoreInitials" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RJS</Value>
+    </Setting>
+    <Setting Name="HighScore2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">325</Value>
+    </Setting>
+    <Setting Name="HighScoreInitials2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">PAC</Value>
+    </Setting>
+    <Setting Name="HighScore3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">320</Value>
+    </Setting>
+    <Setting Name="HighScoreInitials3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SJW</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
